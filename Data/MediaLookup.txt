@@ -1,0 +1,5 @@
+﻿demo.dat	493955072	06470000
+stage.dat	198715392	23B88000
+shared\codec.dat	12409824	40AC8000
+shared\movie.dat	94935040	42490000
+shared\vox.dat	97419264	47F20000
